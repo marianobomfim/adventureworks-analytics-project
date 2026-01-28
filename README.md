@@ -29,7 +29,7 @@ O projeto simula um cenário real de mercado, onde dados transacionais são tran
 - Tabela: `dbo.fato_vendas_analitica`
 
 **Visualização**
-- Power BI conectado diretamente ao SQL Server
+- Power BI conectado a tabela via Direct Lake
 
 ---
 
