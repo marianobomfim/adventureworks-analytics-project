@@ -86,6 +86,12 @@ O projeto simula um cenário real de mercado, onde dados transacionais são tran
 
 ---
 
+### Visualização de Dados
+- Power BI conectado via Direct Lake
+- Modelo semântico leve (PBIX sem carga de dados)
+- Dados consumidos diretamente da camada analítica no SQL Server / Lakehouse
+
+
 📌 Projeto desenvolvido como parte do meu processo de evolução em Engenharia e Análise de Dados, aplicando práticas reais utilizadas em ambientes corporativos.
 
 
