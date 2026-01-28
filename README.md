@@ -86,6 +86,9 @@ O projeto simula um cenário real de mercado, onde dados transacionais são tran
 
 ---
 
+📌 Projeto desenvolvido como parte do meu processo de evolução em Engenharia e Análise de Dados, aplicando práticas reais utilizadas em ambientes corporativos.
+
+
 ## 👤 Autor
 
 **Mariano Bomfim**  
